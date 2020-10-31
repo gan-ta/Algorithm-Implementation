@@ -1,12 +1,10 @@
 package com.company;
 
-import javafx.util.Pair;
-
 import java.util.ArrayList;
 import java.util.List;
 
 
-public class unionFind {
+public class UnionFind {
 
     static class Edge{
         int node1;
