@@ -72,6 +72,5 @@ public class KruskalAlgorithm{
         for(Edge e : result){
             System.out.println("node1 : " + e.node1 + " node2 : " + e.node2 + " weight : " + e.weight);
         }
-
     }
 }
